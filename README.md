@@ -1,4 +1,4 @@
-## Hi  
+## Hi, my name is Tegen. I'm a computer science undergrad doing an economics minor at the University of Alberta. 
 
 <!--
 **tegen-ux/tegen-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
